@@ -48,7 +48,16 @@
             <ul role="tablist" class="nav nav-tabs" id="product_tabs<?php echo $id;?>">
             	<?php foreach( $tabs as $tab => $products ) { if( empty($products) ){ continue;} ?>
 	                <li>
-	                    <a data-toggle="tab" role="tab" href="#tab-<?php if($tabsstyle=='tab-2'){echo $tab.'-left-'.$id;}elseif($tabsstyle=='tab-3'){echo $tab.'-right-'.$id;;}else{echo $tab.$id;}?>" aria-expanded="true"><i class="fa <?php if($tab == 'latest'){echo $icon_newest;}elseif($tab=='featured'){echo $icon_featured;}elseif($tab=='bestseller'){echo $icon_bestseller;}elseif($tab=='special'){echo $icon_special;}else{echo $icon_mostviews;};?>"></i><?php echo $objlang->get('text_'.$tab)?></a>
+	                    <a data-toggle="tab" role="tab" href="#tab-<?php if($tabsstyle=='tab-2'){echo $tab.'-left-'.$id;}elseif($tabsstyle=='tab-3'){echo $tab.'-right-'.$id;;}else{echo $tab.$id;}?>" aria-expanded="true"><i class="fa <?php if($tab == 'latest'){echo $icon_newest;}elseif($tab=='featured'){echo $icon_featured;}elseif($tab=='bestseller'){echo $icon_bestseller;}elseif($tab=='special'){echo $icon_special;}else{echo $icon_mostviews;};?>"></i>
+	                    <?php 
+
+	                    if($objlang->get('text_'.$tab) == 'Sale'){
+	                    	echo 'Newest';
+	                    }else{
+							echo $objlang->get('text_'.$tab);
+	                    }
+	                    	?>
+	                    </a>
 	                </li>
 	            <?php } ?>
             </ul>
