@@ -1,0 +1,15 @@
+
+/* customize for body,body .home1 */ 
+body,body .home1 { 
+font-family:inherit 
+} 
+
+/* customize for #topbar */ 
+#topbar { 
+background-image:url(../../image/pattern/pattern14.png) 
+} 
+
+/* customize for #footer .footer-center */ 
+#footer .footer-center { 
+background-image:url(../../image/pattern/pattern14.png) 
+} 

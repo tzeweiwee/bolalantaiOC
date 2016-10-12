@@ -1,0 +1,92 @@
+
+/* customize for body,body .home1 */ 
+body,body .home1 { 
+background-color:#db2323;
+background-image:url(../../image/pattern/pattern15.png);
+font-family:inherit 
+} 
+
+/* customize for #topbar */ 
+#topbar { 
+background-color:#31d46a 
+} 
+
+/* customize for #topbar span */ 
+#topbar span { 
+color:#eb1deb 
+} 
+
+/* customize for #topbar a */ 
+#topbar a { 
+color:#ff6f00 
+} 
+
+/* customize for .header-v1 .menu */ 
+.header-v1 .menu { 
+background-color:#120707 
+} 
+
+/* customize for .menu */ 
+.menu { 
+background-image:url(../../image/pattern/pattern10.png) 
+} 
+
+/* customize for .menu  a,.pav-megamenu .navbar-nav li a */ 
+.menu  a,.pav-megamenu .navbar-nav li a { 
+color:#84ba62 
+} 
+
+/* customize for .menu #pav-megamenu .dropdown-menu */ 
+.menu #pav-megamenu .dropdown-menu { 
+background-color:#c41c8f 
+} 
+
+/* customize for .menu .widget-heading, #pav-mainnav .dropdown-menu */ 
+.menu .widget-heading, #pav-mainnav .dropdown-menu { 
+color:#2121de 
+} 
+
+/* customize for .menu .dropdown-menu a,.pav-mainnav .dropdown-menu li a */ 
+.menu .dropdown-menu a,.pav-mainnav .dropdown-menu li a { 
+color:#211d1d 
+} 
+
+/* customize for #footer .footer-center */ 
+#footer .footer-center { 
+background-color:#991f99 
+} 
+
+/* customize for #footer .footer-center .panel-title,#footer .footer-center .container  */ 
+#footer .footer-center .panel-title,#footer .footer-center .container  { 
+color:#2cb88e 
+} 
+
+/* customize for #footer .footer-center ul li a, #footer .footer-center ol li a */ 
+#footer .footer-center ul li a, #footer .footer-center ol li a { 
+color:#a5b046 
+} 
+
+/* customize for .powered */ 
+.powered { 
+background-color:#1a151a 
+} 
+
+/* customize for .powered .container .pull-left,.powered */ 
+.powered .container .pull-left,.powered { 
+color:#24decb 
+} 
+
+/* customize for .powered .container a,.powered a */ 
+.powered .container a,.powered a { 
+color:#52b312 
+} 
+
+/* customize for .wishlist i,.quickview i,.compare i */ 
+.wishlist i,.quickview i,.compare i { 
+color:#7d137d 
+} 
+
+/* customize for .action .wishlist .btn,.action .compare .btn,.action .quickview .btn */ 
+.action .wishlist .btn,.action .compare .btn,.action .quickview .btn { 
+background-color:#c4cf29 
+} 

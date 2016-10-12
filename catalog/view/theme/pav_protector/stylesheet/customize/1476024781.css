@@ -1,0 +1,10 @@
+
+/* customize for body,body .home1 */ 
+body,body .home1 { 
+font-family:inherit 
+} 
+
+/* customize for #topbar */ 
+#topbar { 
+background-image:url(../../image/pattern/pattern10.png) 
+} 

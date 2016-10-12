@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+	<footer>
+		<title>Footer Bottom Block</title>
+		<description></description>
+	 	<module>
+	 	 	<title>Address Footer</title>
+	 	 	<field>
+	 	 		<name>widget_address</name>
+	 	 		<label>Content</label>
+	 	 		<type>textarea</type>
+	 	 		<lang>1</lang>
+	 	 		<default><![CDATA[
+				<div class="footer-heading logo-footer">
+						<img alt="icon" src="image/catalog/logo-footer.png">
+				</div>
+
+				<div class="footer-infor">
+					<div class="ourservice-content">
+						<p>One of great multi-purpose themes created by Opencart Theme. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor consectetur adipisicing elit ut labore et dolore magna aliqua.</p>
+
+					</div><br>
+					<div>Follow us on the social networks:</div>
+
+					<ul class="list-unstyled" id="social-icon-list">
+
+
+
+        <li><a href="#"><i class="icons icon-twitter icons-sm icons-color fa fa-twitter"></i></a></li>
+
+
+
+	<li><a href="#"><i class="icons icon-facebook icons-sm icons-color fa fa-facebook"></i></a></li>
+
+
+
+        <li><a href="#"><i class="icons icon-vine icons-sm icons-color fa fa-vine"></i></a></li>
+
+
+
+	<li><a href="#"><i class="icons icon-youtube icons-sm icons-color fa fa-youtube"></i></a></li>
+
+
+
+	<li><a href="#"><i class="icons icon-linkendin icons-sm icons-color fa fa-linkedin"></i></a></li>
+
+
+
+         <li><a href="#"><i class="icons icon-yahoo icons-sm icons-color fa fa-yahoo"></i></a></li>
+
+
+
+	<li><a href="#"><i class="icons icon-google icons-sm icons-color fa fa-google-plus"></i></a></li>
+
+
+
+</ul>
+
+				</div>
+
+
+	 	 		]]></default>
+	 		</field>
+	 	</module>
+	 	<module>
+	 	 	<title>Payment</title>
+	 	 	<field>
+	 	 		<name>widget_payment</name>
+	 	 		<label>Content</label>
+	 	 		<type>textarea</type>
+	 	 		<lang>1</lang>
+	 	 		<default><![CDATA[
+	 	 			<img class="img-responsive"alt="payment" src="image/catalog/payment.png"> 
+	 	 			]]></default>
+	 		</field>
+	 	</module>	
+
+	 	<module>
+	 	 	<title>Contact</title>
+	 	 	<field>
+	 	 		<name>widget_contact</name>
+	 	 		<label>Content</label>
+	 	 		<type>textarea</type>
+	 	 		<lang>1</lang>
+	 	 		<default><![CDATA[
+	 	 			<p style=""><span><i class="fa fa-map-marker"></i>80 Dupont Str, Avenue California, USA </span></p>
+<p style=""><span><i class="fa fa-phone"></i>Phone: +100 123 456 789 </span></p>
+<p style=""><span><i class="fa fa-envelope"></i>Email: support@domain.com</span><br></p>
+<p><img class="img-responsive" src="image/catalog/map.png" alt=""></p>
+	 	 		]]></default>
+	 		</field>
+	 	 </module>	
+
+	</footer>	
+</theme>
+
