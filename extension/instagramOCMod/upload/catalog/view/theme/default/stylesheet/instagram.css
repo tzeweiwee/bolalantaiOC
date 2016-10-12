@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+.product-thumb-instagram {
+	padding: 5px 5px;
+	text-align:center;
+
+	}
+.product-thumb-instagram .img-responsive{
+	margin:0 auto;
+}
+
+.heading-instagram {
+	text-align:center;	
+}	
+.profilepicinsta {
+    background-color: #fbfbfb;
+    border-radius: 50%;
+    border: 1px solid #cccfd0;
+    box-sizing: border-box;
+    overflow: hidden;
+    position: relative;
+	height: 50px;
+    margin-bottom: -7px;
+    margin-top: -7px;
+    width: 50px;	
+}
+
+.profilepicuser {
+    background-color: #fbfbfb;
+    border-radius: 50%;
+    border: 1px solid #cccfd0;
+    box-sizing: border-box;
+    overflow: hidden;
+    position: relative;
+	height: 80px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 80px;	
+}
+
+.coreSpriteNavigationBrandSmall {
+	background-image: url(../../../../../image/catalog/instagram.png);
+	background-repeat: no-repeat;
+	background-position: -344px -284px;
+	height: 28px;
+	width: 102px;
+}
+.tt01 {
+    display: block;
+    overflow: hidden;
+    text-indent: 110%;
+    white-space: nowrap;
+}
+
+.tt02 {
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    left: 0;
+    /* margin-bottom: -50px; */
+    position: relative;
+    margin: 0px auto;
+}
+div.instagram {
+	margin-top:15px;
+	}
+
+.insta_user {
+    text-align: center;
+    left: -67px;
+    margin-top: -30px;
+	}
+
+#column-right .instagram .product-layout, #column-left .instagram .product-layout {
+    width: 100%;
+}	
+

@@ -6,3 +6,174 @@
 2016-10-10 18:43:09 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\OC_slapslap_PAV\system\pavothemes\widget\product_list.php on line 22
 2016-10-10 18:43:09 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\OC_slapslap_PAV\system\pavothemes\widget\product_list.php on line 22
 2016-10-10 18:43:09 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\OC_slapslap_PAV\system\pavothemes\widget\product_list.php on line 22
+2016-10-12 11:09:19 - PHP Notice:  Error: Could not load template C:/xampp/htdocs/OC_slapslap_PAV/catalog/view/theme/default/template/default/template/module/instagram.tpl! in C:\xampp\htdocs\OC_slapslap_PAV\system\storage\modification\system\library\template\basic.php on line 26
+2016-10-12 11:15:45 - PHP Notice:  Undefined index: username in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 13
+2016-10-12 11:15:46 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 25
+2016-10-12 11:15:46 - PHP Notice:  Undefined index: limit in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 25
+2016-10-12 11:15:46 - PHP Warning:  array_slice() expects parameter 1 to be array, null given in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 25
+2016-10-12 11:15:46 - PHP Notice:  Undefined index: username in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 13
+2016-10-12 11:15:46 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 25
+2016-10-12 11:15:46 - PHP Notice:  Undefined index: limit in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 25
+2016-10-12 11:15:46 - PHP Warning:  array_slice() expects parameter 1 to be array, null given in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 25
+2016-10-12 11:16:38 - PHP Notice:  Undefined index: code in C:\xampp\htdocs\OC_slapslap_PAV\admin\model\extension\module.php on line 21
+2016-10-12 11:16:38 - PHP Notice:  Undefined index: code in C:\xampp\htdocs\OC_slapslap_PAV\admin\model\extension\module.php on line 21
+2016-10-12 11:17:35 - PHP Notice:  Undefined index: username in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 13
+2016-10-12 11:17:36 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 25
+2016-10-12 11:17:36 - PHP Notice:  Undefined index: limit in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 25
+2016-10-12 11:17:36 - PHP Warning:  array_slice() expects parameter 1 to be array, null given in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 25
+2016-10-12 11:17:37 - PHP Notice:  Error: Could not load template C:/xampp/htdocs/OC_slapslap_PAV/catalog/view/theme/default/template/default/template/module/instagram.tpl! in C:\xampp\htdocs\OC_slapslap_PAV\system\storage\modification\system\library\template\basic.php on line 26
+2016-10-12 11:25:31 - PHP Notice:  Error: Could not load template C:/xampp/htdocs/OC_slapslap_PAV/catalog/view/theme/default/template/default/template/module/instagram.tpl! in C:\xampp\htdocs\OC_slapslap_PAV\system\storage\modification\system\library\template\basic.php on line 26
+2016-10-12 11:29:11 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 25
+2016-10-12 11:29:11 - PHP Warning:  array_slice() expects parameter 1 to be array, null given in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 25
+2016-10-12 11:31:36 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 25
+2016-10-12 11:31:36 - PHP Warning:  array_slice() expects parameter 1 to be array, null given in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 25
+2016-10-12 13:53:56 - PHP Warning:  file_get_contents(): SSL: The operation completed successfully.
+ in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 29
+2016-10-12 13:53:56 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 31
+2016-10-12 13:53:56 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 34
+2016-10-12 13:53:56 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 37
+2016-10-12 14:12:46 - PHP Warning:  file_get_contents(): SSL: The operation completed successfully.
+ in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 29
+2016-10-12 14:12:46 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 31
+2016-10-12 14:12:46 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 34
+2016-10-12 14:12:46 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 37
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  ftp_put(): Filename invalid in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  ftp_put(): Filename invalid in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  ftp_put(): Filename invalid in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:20:44 - PHP Warning:  ftp_put(): Filename invalid in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:20:44 - PHP Warning:  ftp_put(): Filename invalid in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:20:44 - PHP Warning:  ftp_put(): Filename invalid in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:20:44 - PHP Warning:  ftp_put(): Filename invalid in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 333
+2016-10-12 14:20:44 - PHP Warning:  ftp_mkdir(): Can't create directory. Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 338
+2016-10-12 14:20:44 - PHP Warning:  ftp_put(): Filename invalid in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:28:57 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:28:57 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:28:57 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:28:57 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:28:57 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:28:57 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:28:57 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:28:57 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:30:47 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:30:47 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:30:47 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:30:47 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:30:47 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:30:47 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:30:47 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:30:47 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:31:37 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:31:38 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:31:38 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:31:38 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:31:38 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:31:38 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:31:38 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:31:38 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:33:11 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:33:11 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:33:11 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:33:11 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:33:11 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:33:11 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:33:11 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:33:11 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:34:01 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:34:02 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:34:02 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:34:02 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:34:02 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:34:02 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:34:02 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:34:02 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:36:01 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:36:01 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:36:01 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:36:01 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:36:01 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:36:01 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:36:01 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:36:01 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:37:30 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:37:30 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:37:30 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:37:30 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:37:30 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:37:30 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:37:30 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:37:30 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:44:00 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:44:00 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:44:00 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:44:00 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:44:00 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:44:00 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:44:00 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:44:00 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:52:52 - PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 292
+2016-10-12 14:53:16 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:53:16 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:53:16 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:53:16 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:53:16 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:53:16 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:53:16 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 14:53:16 - PHP Warning:  ftp_put(): Permission denied in C:\xampp\htdocs\OC_slapslap_PAV\admin\controller\extension\installer.php on line 345
+2016-10-12 15:08:07 - PHP Warning:  file_get_contents(): SSL: The operation completed successfully.
+ in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 29
+2016-10-12 15:08:07 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 31
+2016-10-12 15:08:07 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 34
+2016-10-12 15:08:07 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 37
+2016-10-12 15:08:31 - PHP Warning:  file_get_contents(): SSL: The operation completed successfully.
+ in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 29
+2016-10-12 15:08:31 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 31
+2016-10-12 15:08:31 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 34
+2016-10-12 15:08:31 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 37
+2016-10-12 15:09:00 - PHP Warning:  file_get_contents(): SSL: The operation completed successfully.
+ in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 29
+2016-10-12 15:09:00 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 31
+2016-10-12 15:09:00 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 34
+2016-10-12 15:09:00 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\OC_slapslap_PAV\catalog\controller\module\instagram.php on line 37
