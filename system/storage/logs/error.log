@@ -200,3 +200,5 @@
 2016-10-12 17:25:35 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.gmail.com:25 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
 ) in C:\xampp\htdocs\OC_slapslap_PAV\system\library\mail.php on line 167
 2016-10-12 17:28:48 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\OC_slapslap_PAV\system\library\mail.php on line 158
+2016-10-12 20:02:03 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\OC_slapslap_PAV\system\library\mail.php on line 158
+2016-10-12 20:02:04 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\OC_slapslap_PAV\system\library\mail.php on line 158
