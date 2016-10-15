@@ -44,6 +44,6 @@ if ( ! $oasl_user_is_logged  && ! empty ($oasl_subdomain))
 	
 	// Display Widget   	 
 	 echo "\n\t" . implode ("\n\t", $oasl_widget)."\n"; 
-   	
+   		echo "<hr>";
 }
 ?>

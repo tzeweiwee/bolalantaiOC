@@ -9,13 +9,12 @@
 </script>
 
 
-<div class="panel-left panel panel-default">
-  <div class="panel-heading nopadding <?php if($hight_light){echo $hight_light;}?> <?php echo $panel_type;?>">
+<div class="panel-default ">
+  <h2 class="panel-title" style="color:black; text-align: left"><b><?php echo $heading_title?></b></h2>
   	<div id="fb-root"></div>
-	<div>
  		 <div class="fb-page" data-href="https://www.facebook.com/slapshopmy" 
  		 	data-tabs="timeline" 
- 		 	data-width="300" 
+ 		 	data-width="350" 
  		 	data-height="500" 
  		 	data-small-header="true" 
  		 	data-adapt-container-width="true" 
@@ -25,6 +24,4 @@
  		 		<a href="https://www.facebook.com/slapshopmy">Slap Shop</a>
  		 	</blockquote>
  		 </div>
-	</div>
- </div>
 </div>

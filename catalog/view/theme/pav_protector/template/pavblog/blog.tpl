@@ -11,9 +11,9 @@
 	    <?php endif; ?> 
 		<div class="col-md-<?php echo $SPAN[1];?>"><div id="content" class="space-padding-20"><?php echo $content_top; ?>
 		
-		<!-- <h1><?php //echo $blog['title'];?></h1> -->
+		
 		<!-- Start Div Content -->
-		<div class="pav-blogs">
+		<div class="pav-blogs"><h1><?php echo $blog['title'];?></h1>
 		<div class="image">
 		<?php if( $blog['thumb_large'] ) { ?>
 			<img class="img-responsive space-10 space-padding-r20" src="<?php echo $blog['thumb_large'];?>" title="<?php echo $blog['title'];?>" align="left"/>
@@ -22,7 +22,7 @@
 		<div class="clearfix"></div>
 		
 			<div class="blog-content space-top-20">
-				<div class="description"><?php echo $description;?></div>
+				<div class="description"><?php echo $description;?></div><hr>
 				<div class="content-wrap">
 				<?php echo $content;?>
 				</div>
@@ -120,17 +120,18 @@
 					<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
 						<?php } elseif( $comment_engine == 'facebook' ) { ?>
+
+					<!-- facebook comment -->
 					<div id="fb-root"></div>
 					<script>(function(d, s, id) {
 					  var js, fjs = d.getElementsByTagName(s)[0];
-					  if (d.getElementById(id)) {return;}
+					  if (d.getElementById(id)) return;
 					  js = d.createElement(s); js.id = id;
-					  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=<?php echo $config->get("facebook_appid");?>";
+					  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8&appId=296910394029118";
 					  fjs.parentNode.insertBefore(js, fjs);
 					}(document, 'script', 'facebook-jssdk'));</script>
-					<div class="fb-comments" data-href="<?php echo $link; ?>" 
-							data-num-posts="<?php echo $config->get("comment_limit");?>" data-width="<?php echo $config->get("facebook_width")?>">
-					</div>
+					<div class="fb-comments" data-href="<?php echo $link; ?>" data-numposts="5"></div>
+
 					<?php }else { ?>
 						<?php if( count($comments) ) { ?>
 						<h4><?php echo $objlang->get('text_list_comments'); ?></h4>

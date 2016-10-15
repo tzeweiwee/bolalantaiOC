@@ -42,14 +42,14 @@ class PtsWidgetProduct extends PtsWidgetPageBuilder {
 	                    'type'  => 'text',
 	                    'label' => $this->l('Width'),
 	                    'name'  => 'image_width',
-	                    'default'=> 200,
+	                    'default'=> 400,
 	                    'desc'	=> '',
 	                ),
 	                array(
 	                    'type'  => 'text',
 	                    'label' => $this->l('Height'),
 	                    'name'  => 'image_height',
-	                    'default'=> 200,
+	                    'default'=> 400,
 	                    'desc'	=> '',
 	                ),
 	            ),
@@ -76,8 +76,8 @@ class PtsWidgetProduct extends PtsWidgetPageBuilder {
 		public function renderContent( $args, $setting ){
 			$t = array(
 				'product_id'   => 0,
-				'image_height' => '200',
-				'image_width'  => '200'
+				'image_height' => '400',
+				'image_width'  => '400'
 			);
 			$setting = array_merge( $t, $setting );
 

@@ -1,5 +1,7 @@
 <?php 
-	$config = $this->registry->get('config'); 
+
+	$registry = new Registry();
+	$config = $registry->get('config'); 
 
 	$theme  = $config->get('config_template');
 
@@ -23,10 +25,10 @@
  
 	$productLayout = DIR_TEMPLATE.$config->get('config_template').'/template/common/product/deal_default.tpl';	 
 
- 	$ourl = $this->registry->get('url'); 
+ 	$ourl = $registry->get('url'); 
 
 ?>
-<?php $objlang = $this->registry->get('language');  $ourl = $this->registry->get('url');   ?>
+<?php $objlang = $registry->get('language');  $ourl = $registry->get('url');   ?>
 <div class="<?php echo $prefix;?>productdeals panel panel-default">
 	<div class="panel-heading"> <h4 class="panel-title"> <?php echo $heading_title; ?> </h4></div>
 	<div class="panel-body" >

@@ -29,7 +29,7 @@
 ?>
 <div class="panel bg-carousel panel-default">
 	<?php if( $show_title ) { ?>
-	<div class="widget-heading panel-heading"><h3 class="panel-title"><?php echo $heading_title?></h3></div>
+	<div class="widget-heading panel-heading"><h3 class="panel-title"><b><?php echo $heading_title?></b></h3></div>
 	<?php } ?>
 	
 	<?php if ( isset($imagefile) && $imagefile )  { ?>

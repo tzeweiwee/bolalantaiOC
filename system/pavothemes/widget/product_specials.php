@@ -183,8 +183,8 @@ class PtsWidgetProduct_specials extends PtsWidgetPageBuilder {
 			$t = array(
 				'list_type'=> '',
 				'limit' => 8,
-				'image_width'=>'200',
-				'image_height' =>'200',
+				'image_width'=>'300',
+				'image_height' =>'300',
 				'itemsperpage'	=> 4,
 				'column'		=> 4,
 			);

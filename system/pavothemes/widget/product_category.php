@@ -139,8 +139,8 @@ class PtsWidgetProduct_category extends PtsWidgetPageBuilder {
 			$t  = array(
 				'category_id'   => '',
 				'limit'         => '4',
-				'image_width'   => '200',
-				'image_height'  => '200',
+				'image_width'   => '400',
+				'image_height'  => '400',
 				'column'		=> 4,
 			);
 			$setting = array_merge( $t, $setting );

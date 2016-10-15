@@ -5,8 +5,10 @@
 <?php if( !empty($blogs) ) { ?>
 <div id="blog-carousel" class="widget-blogs  latest-posts latest-posts-v1 panel panel-default <?php echo $addition_cls;?> <?php $addition_cls?> <?php if ( isset($stylecls)&&$stylecls) { ?>box-<?php echo $stylecls; ?><?php } ?>">
 	<?php if( $show_title ) { ?>
-	<div class="panel-heading none-border"><h4 class="panel-title"><?php echo $heading_title?></h4></div>
-	<?php } ?>
+	<div class="panel-heading none-border"><h1 class="panel-title" style="font-size:30px"><?php echo $heading_title?></h1></div>
+	<br>
+	<p style="text-align:center"><em>Our Latest Posts</em></p>
+	<?php } ?><hr>
 <div class="owl-carousel-play" data-ride="owlcarousel">
 
 	<div class="owl-carousel" data-show="1" data-pagination="false" data-navigation="true">

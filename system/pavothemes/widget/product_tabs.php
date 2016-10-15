@@ -171,14 +171,14 @@ class PtsWidgetProduct_tabs extends PtsWidgetPageBuilder {
 	                    'type'  => 'text',
 	                    'label' => $this->l('Width'),
 	                    'name'  => 'image_width',
-	                    'default'=> 200,
+	                    'default'=> 400,
 	                    'desc'	=> '',
 	                ),
 	                array(
 	                    'type'  => 'text',
 	                    'label' => $this->l('Height'),
 	                    'name'  => 'image_height',
-	                    'default'=> 200,
+	                    'default'=> 400,
 	                    'desc'	=> '',
 	                ),
 	                array(
