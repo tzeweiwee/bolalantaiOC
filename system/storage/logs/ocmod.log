@@ -42,3 +42,69 @@ FILE: system/library/template/basic.php
 REGEX: ~(require|include)(_once)?\(([^)]+)~
 LINE: 18
 ----------------------------------------------------------------
+2016-10-17 18:07:02 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Coupon popup</font>
+FILE: catalog/controller/common/footer.php
+CODE: $data['newsletter'] = $this->url->link('account/newsletter', '', 'SSL');
+NOT FOUND!
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <div class="container">
+LINE: 4
+FILE: catalog/view/theme/pav_protector/template/common/footer.tpl
+CODE: <div class="container">
+LINE: 17
+----------------------------------------------------------------
+2016-10-17 18:07:06 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Coupon popup</font>
+FILE: catalog/controller/common/footer.php
+CODE: $data['newsletter'] = $this->url->link('account/newsletter', '', 'SSL');
+NOT FOUND!
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: <div class="container">
+LINE: 4
+FILE: catalog/view/theme/pav_protector/template/common/footer.tpl
+CODE: <div class="container">
+LINE: 17
+----------------------------------------------------------------
