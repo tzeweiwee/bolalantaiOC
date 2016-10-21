@@ -6,8 +6,9 @@
 /* $headings-font-weight:    700 !default; */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 @import url(https://fonts.googleapis.com/css?family=Hind:400,500,300,700,600);
+@import url('https://fonts.googleapis.com/css?family=Rubik');
 html {
-  font-family: sans-serif;
+  font-family: "Rubik", sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -328,7 +329,7 @@ html {
 }
 
 body {
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 14px;
   line-height: 25px;
   color: #1e1e1e;
@@ -429,7 +430,7 @@ hr {
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 400;
   line-height: 1.1;
   color: #000000;
@@ -4877,7 +4878,7 @@ button.list-group-item-danger.active:focus {
   margin-bottom: 0;
   font-size: 16px;
   color: inherit;
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   text-align: center;
 }
 .panel-title > a,
@@ -5493,7 +5494,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -5615,7 +5616,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -6382,7 +6383,7 @@ header, .container {
 #topbar .btn-link {
   color: #1e1e1e;
   font-size: 12px;
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   text-transform: uppercase;
 }
 #topbar .btn-link:hover {
@@ -6421,7 +6422,7 @@ header, .container {
   color: #1e1e1e;
   text-decoration: none;
   font-size: 12px;
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   padding-left: 20px;
 }
 #top-links a + a {
@@ -6653,7 +6654,7 @@ footer {
 }
 footer .footer-heading {
   text-transform: uppercase;
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   color: #1e1e1e;
   padding-bottom: 30px;
   letter-spacing: 2.5px;
@@ -7057,7 +7058,7 @@ footer .address .list-unstyled > li > a {
   padding: 0px 0px;
 }
 .navbar-mega .navbar-nav > li > a {
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   color: #FFFFFF;
   padding: 19.5px 30px;
   margin: 0;
@@ -7101,7 +7102,7 @@ footer .address .list-unstyled > li > a {
   border-top: 2px solid #03a9f4;
   background: #fff;
   min-width: 200px;
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   border-radius: 0;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
@@ -7243,7 +7244,7 @@ footer .address .list-unstyled > li > a {
 .navbar-mega .widget-heading {
   padding: 20px 0;
   border-bottom: 1px solid #e8e8e8;
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   text-transform: uppercase;
 }
 
@@ -7411,7 +7412,7 @@ footer .address .list-unstyled > li > a {
   left: 100%;
   min-width: 210px;
   display: none;
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   opacity: 0;
   filter: alpha(opacity=0);
   padding: 25px;
@@ -7448,7 +7449,7 @@ footer .address .list-unstyled > li > a {
   padding-left: inherit;
 }
 .verticalmenu .dropdown-menu ul > li > a {
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 .verticalmenu .dropdown-menu ul > li > a:hover {
   color: #03a9f4;
@@ -7477,7 +7478,7 @@ footer .address .list-unstyled > li > a {
   font-size: 14px;
   color: #000;
   text-transform: uppercase;
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 .verticalmenu .bg1 div.dropdown-menu {
   background-position: bottom right;
@@ -7619,7 +7620,7 @@ footer .address .list-unstyled > li > a {
   text-transform: uppercase;
   line-height: 20px;
   border: none;
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 .cart button:hover {
   color: #03a9f4;
@@ -7743,7 +7744,7 @@ footer .address .list-unstyled > li > a {
   right: 0px;
   z-index: 99;
   display: block;
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 10px;
 }
 .rtl .product-label.ribbon2 {
@@ -7777,7 +7778,7 @@ footer .address .list-unstyled > li > a {
   left: 0px;
   z-index: 99;
   display: block;
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 10px;
 }
 .rtl .product-label.ribbon1 {
@@ -9388,7 +9389,7 @@ ul.menu li {
   border: 3px solid #313131;
 }
 .pricing.pricing-v1 .pricing-header > * {
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 .pricing.pricing-v1 .plan-title {
   font-size: 24px;
@@ -12179,7 +12180,7 @@ body .home6 .pav-verticalmenu {
   padding: 5px 0;
 }
 .verticalmenu .dropdown-menu ul > li > a {
-  font-family: "Metrophobic", sans-serif;
+  font-family: "Rubik", sans-serif;
   color: #89a0ac;
 }
 .verticalmenu .dropdown-menu ul > li > a:hover {
